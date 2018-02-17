@@ -1,4 +1,4 @@
-INSERT INTO VehicleModelYear (year, make, model) VALUES (1909, 'Ford', 'Model T'),
+INSERT INTO VehicleModelYear (year, make, model) VALUES(1909, 'Ford', 'Model T'),
 (1926, 'Chrysler', 'Imperial'),
 (1948, 'Citroën', '2CV'),
 (1950, 'Hillman', 'Minx Magnificent'),
@@ -995,7 +995,9 @@ INSERT INTO VehicleModelYear (year, make, model) VALUES (1909, 'Ford', 'Model T'
 (1992, 'Suzuki', 'Samurai'),
 (1992, 'Mercedes-Benz', 'E-Class'),
 (1992, 'Mercedes-Benz', 'S-Class'),
-(1992, 'Mercedes-Benz', 'SL-Class'),
+(1992, 'Mercedes-Benz', 'SL-Class');
+
+INSERT INTO VehicleModelYear (year, make, model) VALUES
 (1992, 'Mercedes-Benz', 'W201'),
 (1992, 'Mercedes-Benz', '190E'),
 (1992, 'Mercedes-Benz', '300CE'),
@@ -1993,7 +1995,9 @@ INSERT INTO VehicleModelYear (year, make, model) VALUES (1909, 'Ford', 'Model T'
 (1995, 'Honda', 'Prelude'),
 (1995, 'Honda', 'Accord'),
 (1995, 'Honda', 'Civic'),
-(1995, 'Honda', 'del Sol'),
+(1995, 'Honda', 'del Sol');
+
+INSERT INTO VehicleModelYear (year, make, model) VALUES
 (1995, 'Honda', 'Odyssey'),
 (1995, 'Honda', 'Passport'),
 (1995, 'Chrysler', 'Cirrus'),
@@ -2991,7 +2995,9 @@ INSERT INTO VehicleModelYear (year, make, model) VALUES (1909, 'Ford', 'Model T'
 (1999, 'Lotus', 'Esprit'),
 (1999, 'Corbin', 'Sparrow'),
 (1999, 'Acura', 'CL'),
-(1999, 'Acura', 'Integra'),
+(1999, 'Acura', 'Integra');
+
+INSERT INTO VehicleModelYear (year, make, model) VALUES
 (1999, 'Acura', 'NSX'),
 (1999, 'Acura', 'RL'),
 (1999, 'Acura', 'SLX'),
@@ -3989,7 +3995,9 @@ INSERT INTO VehicleModelYear (year, make, model) VALUES (1909, 'Ford', 'Model T'
 (2003, 'Mazda', 'MPV'),
 (2003, 'Mazda', 'Tribute'),
 (2003, 'Mazda', 'Mazda6'),
-(2003, 'Mazda', 'MX-5'),
+(2003, 'Mazda', 'MX-5');
+
+INSERT INTO VehicleModelYear (year, make, model) VALUES
 (2003, 'Mazda', 'Protege'),
 (2003, 'Mazda', 'B-Series Plus'),
 (2003, 'Mazda', 'Miata MX-5'),
@@ -4986,7 +4994,9 @@ INSERT INTO VehicleModelYear (year, make, model) VALUES (1909, 'Ford', 'Model T'
 (2006, 'Chevrolet', 'Tahoe'),
 (2006, 'Chevrolet', 'Express'),
 (2006, 'Chevrolet', 'Avalanche'),
-(2006, 'Chevrolet', 'Avalanche 1500'),
+(2006, 'Chevrolet', 'Avalanche 1500');
+
+INSERT INTO VehicleModelYear (year, make, model) VALUES
 (2006, 'Chevrolet', 'Avalanche 2500'),
 (2006, 'Chevrolet', 'Express 1500'),
 (2006, 'Chevrolet', 'Express 2500'),
@@ -5941,7 +5951,9 @@ INSERT INTO VehicleModelYear (year, make, model) VALUES (1909, 'Ford', 'Model T'
 (2009, 'Chevrolet', 'Express 3500'),
 (2009, 'Chevrolet', 'Silverado 1500'),
 (2009, 'Chevrolet', 'Silverado 2500'),
-(2009, 'Chevrolet', 'Silverado 3500'),
+(2009, 'Chevrolet', 'Silverado 3500');
+
+INSERT INTO VehicleModelYear (year, make, model) VALUES
 (2009, 'Chevrolet', 'Suburban 1500'),
 (2009, 'Chevrolet', 'Suburban 2500'),
 (2009, 'Volkswagen', 'Passat'),
@@ -6846,7 +6858,9 @@ INSERT INTO VehicleModelYear (year, make, model) VALUES (1909, 'Ford', 'Model T'
 (2011, 'Lincoln', 'MKS'),
 (2011, 'Lincoln', 'MKZ'),
 (2011, 'Lincoln', 'Town Car'),
-(2011, 'Lincoln', 'MKX'),
+(2011, 'Lincoln', 'MKX');
+
+INSERT INTO VehicleModelYear (year, make, model) VALUES
 (2011, 'Lincoln', 'Navigator L'),
 (2011, 'Mitsubishi', 'Eclipse'),
 (2011, 'Mitsubishi', 'Outlander'),
